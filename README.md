@@ -1,6 +1,8 @@
-### Olá, Eu sou Alex Silva👋
-##### Seja bem vindo ao meu perfil!
-##### Meu sistema operacional favorito é o Linux.
+### Hi I'm Alex Silva
+##### Today I am a software developer passionate about the open source community.
+
+##### Nowadays my work focuses on developing software for textile industries with Caché database technology and using the Caché ObjectScript programming language.
+
 
 
 
