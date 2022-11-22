@@ -1,7 +1,7 @@
 ### Hi I'm Alex Silva
 ##### Today I am a software developer passionate about the open source community.
 
-##### Nowadays my work focuses on developing software for textile industries with Caché database technology and using the Caché ObjectScript programming language.
+
 
 
 
