@@ -1,5 +1,6 @@
 ### Hi I'm Alex Silva
 ##### Today I am a software developer passionate about the open source community.
+##### My goal is to provide data-driven solutions and solving challenging business problems.
 
 
 
