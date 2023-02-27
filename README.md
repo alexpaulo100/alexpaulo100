@@ -12,8 +12,8 @@
 
 <div>
 <a href="https://github.com/alexpaulo100">
-  <img height="220cm" src="https://github-readme-stats.vercel.app/api?username=alexpaulo100&show_icons=true&theme=radical"/>
-  <img height="220cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexpaulo100&show_icons=true&theme=radical"/>
+  <img height="220cm" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alexpaulo100&show_icons=true&theme=radical"/>
+  <img height="220cm" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alexpaulo100&show_icons=true&theme=radical"/>
 </a>
 </div>
 
