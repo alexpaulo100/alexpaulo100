@@ -8,7 +8,7 @@
 
 
 ##
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=UTILIZADOR&layout=compact&theme=dracula)
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=alexpaulo100&layout=compact&theme=dracula)
 
 <div>
 <a href="https://github.com/alexpaulo100">
