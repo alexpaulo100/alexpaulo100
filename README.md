@@ -1,52 +1,79 @@
-### Hello, my name is Alex Silva 
-#### Thank you for visiting my profile.
-#### I'm a software developer passionate about the open source community.
-#### I have a degree in Data Science and I like working with ETL processes, and one of my goals is to develop data solutions to solve business problems.
+<img width=100% bottom=50px src="https://github.com/user-attachments/assets/d2f117e8-886f-47ed-9b34-de736399b6fd"/>
+<br>
+<br>
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4500&pause=1800&color=1A66F7&width=435&lines=Hello%2C+my+name+is+Alex+Silva.;Thank+you+for+visiting+my+profile.;I'm+a+software+developer+who+likes;about+the+open+source+community.;I+have+a+degree+in+Data+Science.;I+like+working+with+ETL+processes.;I+have+a+problem+solver+profile.)](https://git.io/typing-svg)
 
 
 
 
 
-##
+
+
+
+
+
+
 
 
 <div>
-<a href="https://github.com/alexpaulo100">
-  <img height="220cm" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alexpaulo100&show_icons=true&theme=radical"/>
-  <img height="220cm" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alexpaulo100&show_icons=true&theme=radical"/>
-  
-</a>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alexpaulo100&theme=python-dark&card_width=1020)](https://git.io/streak-stats)
+
+
+   
+
 </div>
+   
+
+### Technologies and tools:
+
+
+[![My Skills](https://skillicons.dev/icons?i=py,r,java,c,ruby,pycharm,idea,vscode,anaconda,git,docker,fastapi,django,flask,aws)](https://skillicons.dev)
+
+
+### Database:
+
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite)](https://skillicons.dev)
+
+
+### Operating System
+
+
+[![My Skills](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
 
 
 
-Technologies and tools:
+### Learning
 
-
+[![My Skills](https://skillicons.dev/icons?i=rust)](https://skillicons.dev)
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="40" height="40" />
           
                                                                                                                    
 </div> 
 
-Meus contatos:
+### Social media
+
+
 
 <div>
+  
 <a href="https://www.linkedin.com/in/alexpaulo100" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div> 
 
+
+### Visitor counter
+
+
+<div>
+<p align="center"><img align="center" src= "https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Falexpaulo100%2F&s=50&c=00ff1e&bg=00000000&no=4&ff=digi&tb=+visitor+--%3E+&ta=" alt="visits" /></p>
+<br>
+</div> 
+
+
+
+<img width=100% bottom=50px src="https://github.com/user-attachments/assets/cd65fe1c-dcd2-4fc3-a3af-a31db5f26467"/>
+<br>
+<br>
+<br>
