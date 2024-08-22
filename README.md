@@ -1,4 +1,5 @@
-### Hello, my name is Alex Silva
+### Hello, my name is Alex Silva 
+#### Thank you for visiting my profile.
 #### I'm a software developer passionate about the open source community.
 #### I have a degree in Data Science and I like working with ETL processes, and one of my goals is to develop data solutions to solve business problems.
 
