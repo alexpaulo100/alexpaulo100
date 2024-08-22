@@ -1,7 +1,6 @@
-### Hi I'm Alex Silva
-##### Today I am a software developer passionate about the open source community.
-##### My goal is to provide data-driven solutions and solving challenging business problems.
-
+### Hello, my name is Alex Silva
+#### I'm a software developer passionate about the open source community.
+#### I have a degree in Data Science and I like working with ETL processes, and one of my goals is to develop data solutions to solve business problems.
 
 
 
