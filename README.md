@@ -56,32 +56,6 @@
 ### Social media
 
 <div>
-  <a href="https://www.linkedin.com/in/alexpaulo100" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
-
-
-
-
-<div>
-  <a href="https://www.linkedin.com/in/alexpaulo100" target="_blank" onclick="window.open(this.href, '_blank'); return false;">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
-
-
-
-
-<div>
-  <a href="https://www.linkedin.com/in/alexpaulo100" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
-
-
-
-<div>
   
 <a href="https://www.linkedin.com/in/alexpaulo100" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>   
 </div> 
