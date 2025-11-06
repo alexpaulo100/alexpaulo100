@@ -20,12 +20,12 @@
 ### Technologies and tools:
 
 
-[![My Skills](https://skillicons.dev/icons?i=py,r,java,c,ruby,pycharm,idea,vscode,anaconda,git,docker,fastapi,django,flask,aws,oracle)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,r,java,c,ruby,pycharm,idea,vscode,anaconda,git,docker,fastapi,django,flask,aws)](https://skillicons.dev)
 
 
 ### Database:
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,oracle)](https://skillicons.dev)
 
 
 ### Operating System
