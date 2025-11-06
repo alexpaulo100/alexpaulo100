@@ -25,7 +25,9 @@
 
 ### Database:
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,oracle)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite)](https://skillicons.dev)
+<i class="devicon-oracle-plain colored"></i>
+
 
 
 ### Operating System
