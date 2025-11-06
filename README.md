@@ -11,7 +11,8 @@
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alexpaulo100&theme=python-dark&card_width=1020)](https://git.io/streak-stats)
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexpaulo100&show_icons=true&theme=radical)
+
 
 
 ### Technologies and tools:
