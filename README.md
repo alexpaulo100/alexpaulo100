@@ -3,7 +3,7 @@
 <br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4500&pause=1800&color=1A66F7&width=435&lines=Hello%2C+my+name+is+Alex+Silva.;Thank+you+for+visiting+my+profile.;I'm+a+software+developer+who+likes;about+the+open+source+community.;I+have+a+degree+in+Data+Science.;I+like+working+with+ETL+processes.;I+have+a+problem+solver+profile.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4500&pause=1800&color=1A66F7&width=435&lines=Hello%2C+my+name+is+Alex+Silva.;Thank+you+for+visiting+my+profile.;I'm+a+software+developer+who+likes;about+the+open+source+community.;I+currently+work+with+PL%2FSQL.;I+like+working+with+ETL+processes.;I+have+a+problem+solver+profile.)](https://git.io/typing-svg)
 
 
 
