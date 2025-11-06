@@ -10,23 +10,9 @@
 
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=alexpaulo100.ALEXPAULO100)
-
-
-
-
-
-
-
-<div>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alexpaulo100&theme=python-dark&card_width=1020)](https://git.io/streak-stats)
 
-
-   
-
-</div>
-   
 
 ### Technologies and tools:
 
@@ -64,12 +50,7 @@
 
 
 ### Visitor counter
-
-<p align="center">
-  <img src="https://github-readme-visitor-counter.vercel.app/api?username=alexpaulo100&count_color=00ff1e" alt="Visitor Count" />
-</p>
-
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=alexpaulo100.ALEXPAULO100)
 
 
 <img width=100% bottom=50px src="https://github.com/user-attachments/assets/cd65fe1c-dcd2-4fc3-a3af-a31db5f26467"/>
