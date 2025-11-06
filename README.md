@@ -61,10 +61,11 @@
 </div> 
 
 
+
 ### Visitor counter
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/alexpaulo100/count.svg" alt="Visitor Count" />
+  <img src="https://github-readme-visitor-counter.vercel.app/api?username=alexpaulo100&count_color=00ff1e" alt="Visitor Count" />
 </p>
 
 
