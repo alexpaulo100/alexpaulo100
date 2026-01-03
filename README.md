@@ -11,7 +11,7 @@
 
 
 
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexpaulo100&show_icons=true&theme=radical)
+![Alex's GitHub stats]([https://github-readme-stats.vercel.app/api?username=alexpaulo100&show_icons=true&theme=radical](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={alexpaulo100}&theme={theme_name}&exclude={exclude})
 
 
 
