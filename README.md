@@ -12,7 +12,7 @@
 
 ## 📊 Meu Dashboard de Desenvolvedor
 
-<p align="center">
+<p >
   <img src="https://github-readme-stats.vercel.app/api?username=alexpaulo100&show_icons=true&theme=monokai" alt="Stats do Alex" height="165em" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexpaulo100&theme=monokai" alt="Linguagens do Alex" height="165em" />
 </p>
