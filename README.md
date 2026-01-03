@@ -17,9 +17,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexpaulo100&theme=monokai" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexpaulo100&layout=compact&theme=monokai" alt="Top Langs" height="165em" />
-</p>
 
 ### Technologies and tools:
 
