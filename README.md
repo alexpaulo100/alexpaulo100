@@ -10,9 +10,16 @@
 
 
 
+## 📊 Meu Dashboard de Desenvolvedor
 
-![Alex's GitHub stats]([https://github-readme-stats.vercel.app/api?username=alexpaulo100&show_icons=true&theme=radical](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={alexpaulo100}&theme={theme_name}&exclude={exclude})
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alexpaulo100&show_icons=true&theme=monokai" alt="Stats do Alex" height="150" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexpaulo100&theme=monokai" alt="Linguagens do Alex" height="150" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexpaulo100&layout=compact&theme=monokai" alt="Top Langs" height="150" />
+</p>
 
 
 ### Technologies and tools:
