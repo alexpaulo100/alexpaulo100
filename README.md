@@ -13,8 +13,7 @@
 ## 📊 Meu Dashboard de Desenvolvedor
 
 <p >
-  <img src="https://github-readme-stats.vercel.app/api?username=alexpaulo100&show_icons=true&theme=monokai" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexpaulo100&theme=monokai" />
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexpaulo100&theme=monokai" />
 </p>
 
 
