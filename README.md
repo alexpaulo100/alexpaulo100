@@ -1,7 +1,7 @@
 <img width=100% bottom=50px src="https://github.com/user-attachments/assets/d2f117e8-886f-47ed-9b34-de736399b6fd"/>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1500&color=1A66F7&width=650&lines=Systems+Development+%26+Data+Engineer;Building+ETL+Pipelines+%26+ERP+Integrations;Specialized+in+Python%2C+SQL%2C+Oracle+%26+PostgresSQL;Turning+raw+data+into+business+solutions.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1500&color=1A66F7&width=650&lines=Systems+Development+%26+Data+Engineer;Building+ETL+Pipelines+%26+ERP+Integrations;Specialized+in+Python%2C+SQL%2C+Oracle+%26+PostgreSQL;Turning+raw+data+into+business+solutions.)](https://git.io/typing-svg)
 
 ## 📌 About Me
 
