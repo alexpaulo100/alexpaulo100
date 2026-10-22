@@ -38,12 +38,7 @@ I design and maintain end-to-end applications connecting core databases, APIs, a
 
 ### 🛢️ Databases & Storage:
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="48" style="vertical-align: middle; margin-right: 4px;" />
-  <a href="https://skillicons.dev" style="vertical-align: middle;">
-    <img src="https://skillicons.dev/icons?i=postgres,sqlite,redis" height="48" style="vertical-align: middle;" />
-  </a>
-</p>
+<a href="https://www.oracle.com/database/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="48" height="48" alt="Oracle" style="vertical-align: middle; margin-right: 4px;" /></a><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,sqlite,redis" height="48" style="vertical-align: middle;" /></a>
 
 ---
 
